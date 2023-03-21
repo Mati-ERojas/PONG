@@ -1,0 +1,3 @@
+# PONG
+Réplica del videojuego PONG hecha con JavaScript en el programa processing
+*EL PROYECTO FUE REALIZADO EN PROCESSING 2, TAL VEZ NO FUNCIONE CORRECTAMENTE EN VERSIONES SUPERIORES*
